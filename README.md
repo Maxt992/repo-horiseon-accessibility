@@ -15,10 +15,12 @@ I used HTML and CSS to accomplish this project.
 Simply open the page, and you will find that it looks and functions as it originally had. Only upon examining the source code will you see the work that has been done.
 
 
-![digital marketing meeting](assets/images/digital-marketing-meeting.jpg)
+![digital marketing meeting](assets/images/horiseon-full-page.png)
 
 
 ## Credits
 
-UW Coding Bootcamp
-Anthony Brown
+- UW Coding Bootcamp
+- Anthony Brown
+- Ben Holgate
+- Robert Bishop
