@@ -12,7 +12,11 @@ I used HTML and CSS to accomplish this project.
 
 ## Usage
 
-Simply open the page, and you will find that it looks and functions as it originally had. Only upon examining the source code will you see the work that has been done.
+Copy the link below and paste it into your web browser, you will find that it looks and functions as it originally had. Only upon examining the source code will you see the work that has been done.
+
+```md
+https://maxt992.github.io/repo-horiseon-accessibility/
+```
 
 
 ![digital marketing meeting](assets/images/horiseon-full-page.png)
